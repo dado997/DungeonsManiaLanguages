@@ -1,0 +1,149 @@
+GUI_BACK: Back
+GUI_CONFIRM: Confirm
+GUI_CONFIRM_LORE: §7Click to confirm
+GUI_ABORT: Abort
+GUI_ABORT_LORE: §7Click to abort
+GUI_PREVIOUS: Previous
+GUI_PREVIOUS_LORE: Go to previous page.
+GUI_NEXT: Next
+GUI_NEXT_LORE: Go to next page.
+GUI_SEARCH: Search
+GUI_SEARCH_LORE: Click to search.
+GUI_ENABLED: Enabled
+GUI_DISABLED: Disabled
+GUI_CLICKTO_ENABLE: §aClick to enable
+GUI_CLICKTO_DISABLE: §aClick to §cdisable
+GUI_PRESSQ_TO_REMOVE: §cPress Q to remove
+GUI_REMOVE_LORE: Remove the boss.
+GUI_Press_Q_TO_REMOVEMOB: §cPress Q to remove mob.
+GUI_DUNGEON_MOBS_LORE: Click to manage the bosses you will add to dungeons
+GUI_TITLE: Title
+GUI_TITLE_LORE: Click to change the title of the scoreboard
+GUI_LINES: Lines
+GUI_LINES_LORE: Click to manage the lines displayed on the scoreboard
+GUI_PRESS_TO_MOVE: §c Left click / Right click to move this left or right.
+INVALID_DUNGEON: §4Dungeon not completed! Please, verify if you've set every spawnpoint correctly.
+GUI_CREATE: Create
+GUI_CREATE_MOB_LORE: Create a new dungeon mob.
+GUI_CREATE_AUTOSPAWN_LORE: Create a new autospawn.
+GUI_AUTOSPAWNS_LORE: §7Manage the spawners that will work during this stage
+AUTOSPAWN_ALREADY_EXISTS: §cA autospawn with this name already exists!
+INVALID_AUTOSPAWN: §cInvalid location or entities! Please, verify the autospawn and try again.
+GUI_INVALID_AUTOSPAWN_NAME: §cInvalid name! You can't use special characters in the autospawn name!
+GUI_DUNGEONMOBS_LORE: Manage the dungeonMobs
+GUI_CREATE_DUNGEON_LORE: §aCreate a new dungeon.
+GUI_PRESSQ_TOTYPE_SPAWNRATE: §aPress Q to type in chat the secondsperspawn
+GUI_AUTOSPAWN_TELEPORT: Right click to teleport.
+GUI_AUTOSPAWN_SETLOC: Set the location of the autospawn
+GUI_MAX_SPAWNABLE_BOSSES: MaxSpawnableBosses
+GUI_MAX_SPAWNABLE_BOSSES_LORE: §eBy setting this limit, bosses will only be able to spawn from autospawn
+GUI_MAX_SPAWNABLE_BOSSES_LORE2: §eonly if the number of bosses spawned will be less than this limit.
+GUI_MAX_SPAWNABLE_BOSSES_LORE3: §eIf you don't want set this limit, set this at 0.
+GUI_ADD: Add
+GUI_ADD_LINE: §aClick to add a line.
+GUI_BOSS_ADD_LORE: Add a boss.
+GUI_DROP_ADD_LORE: Add a drop.
+GUI_INVALID_NAME: §cInvalid name! You can't use special characters!.
+GUI_LEFT_CLICK_TO_MANAGE: §aLeft click to manage
+GUI_LEFT_CLICK_TO_CHANGE: §aLeft click to change
+GUI_RIGHT_CLICK_TO_TELEPORT: §aRight click to teleport
+GUI_CLICK_TO_MANAGE: §aClick to manage
+GUI_CLICK_TO_CHANGE: §aClick to change.
+GUI_LEFT_TO_TYPE_CHANCE: §eLeft click to type in chat the chance.
+GUI_LEFT_TO_TYPE_QUANTITY: §eLeft click to type in chat the quantity.
+GUI_CLICK_TO_TELEPORT: §bRight click to teleport
+GUI_STAGES: Stages
+GUI_STAGES_LORE: §aManage the stages
+GUI_STAGE: Stage
+GUI_DUNGEONKEY: Dungeon key
+GUI_DUNGEONKEY_LORE: §cIf you set a key for this dungeon, players will need this key to enter the dungeon.
+GUI_DUNGEONKEY_LORE2: §eRight click to get this dungeon key
+GUI_DUNGEONKEY_NEEDED: §cYou need a key to access this dungeon!
+GUI_REGION: Region
+GUI_REGION_LORE: §aLeft click to change the set the area of the dungeon again
+GUI_REGION_LORE2: §aYou will also have to set the spawnpoints again
+GUI_SCOREBOARD_LORE: §aClick to manage scoreboard
+GUI_OBJECTIVES: Objectives
+GUI_OBJECTIVES_LORE: §aClick to manage objectives
+GUI_OBJECTIVES_LORE2: §aWhen the objective is completed, the next stage will start.
+GUI_ITEMS: Items
+GUI_ITEMS_LORE: Items to deliver
+GUI_ITEMS_MISSING: §cThe following items are missing: §e%items%
+GUI_DELAY: Delay
+GUI_DELAY_LORE: §7Change how much time passes between one npc message and another
+GUI_DUNGEONSCRIPT: DungeonScript
+GUI_DUNGEONSCRIPT_LORE: §aClick to manage dungeon scripts
+GUI_DUNGEONSCRIPT_ENABLED: §eThis DungeonScript is §aenabled §efor this stage
+GUI_DUNGEONSCRIPT_DISABLED: §eThis DungeonScript is §cdisabled §efor this stage
+GUI_SPAWNER_ENABLED: §eThis Spawner is §aenabled §efor this stage
+GUI_SPAWNER_DISABLED: §eThis Spawner is §cdisabled §efor this stage
+GUI_EXIT: §9Exit the dungeon
+GUI_EXIT_LORE: §kExit the dungeon
+GUI_CANEXIT: Can Exit
+GUI_CANEXIT_LORE: §aIf "can exit" is set on false, players won't be able to exit until they complete the dungeon
+CANT_EXIT: §cYou can't exit
+CANT_EXIT_SUBTITLE: §cYou have to complete the dungeon to exit!
+GUI_KEEPINVENTORY_LORE: §aIf "keep inventory" is enabled, players won't lose items when they die in the dungeon
+GUI_EXITLOC: Exit Location
+GUI_EXITLOC_LORE: §aSet the location where the player will be teleported when he exits the dungeon
+GUI_ENDLOC: End Location
+GUI_ENDLOC_LORE: §aSet the location where the player will be teleported when he wins the dungeon
+GUI_SPAWNLOC: Spawn Location
+GUI_SPAWNLOC_LORE: §aSet the location where the player will be spawn when he enters the dungeon
+GUI_INVALID_SPAWNLOC: §cThe spawn location must be inside the dungeon region
+GUI_INVALID_EXITLOC: §cThe exit location must be outside the dungeon region
+GUI_NAME: §eName
+GUI_NAME_LORE: §eChoose the name of the item.
+GUI_SET_NOTHING: SET NOTHING
+GUI_CLICK_TO_CHOOSE: Click to choose type.
+GUI_BOSSBAR: Manage the BossBar of the boss.
+GUI_BOSSBAR_ENABLE: Left click to enable bossbar. (requires a server 1.13.2 or up)
+GUI_BOSSBAR_DISABLE: Left click to disable bossbar.
+GUI_CHANGE_BOSSBAR_COLOR: Click to change color.
+GUI_CHANGE_BOSSBAR_STYLE: Click to change style.
+GUI_EQUIPMENT: Equipment
+GUI_EQUIPMENT_LORE: Manage the equipment of the mob.
+GUI_NO_ARMOR: NO ARMOR
+GUI_NO_MAIN_ITEM: NO ITEM IN MAIN HAND
+GUI_NO_OFF_ITEM: NO ITEM IN OFF HAND
+GUI_DROPS: Drops
+GUI_DROPS_LORE: Manage the drops of the boss.
+GUI_MAX_DROPS: §eMaxDrops
+GUI_MAX_DROPS_LORE: Set the maximum drops that the boss can drop when he dies.
+GUI_GO_UPTOMAX: §eIf you want to set a value higher than %max%, modify the %value%
+GUI_GO_UPTOMAX2: §ein the spigot.yml file, and restart the server(not reload).
+GUI_LEFT_TO_TYPE_ATTRIBUTE: §eLeft click to type in chat the attribute.
+GUI_RIGHT_CLICK_TO_DEFAULT: §eRight click to set default value.
+GUI_HEALTH: §eHealth
+GUI_DAMAGE: §eDamage
+GUI_MOVEMENT_SPEED: §eMovement speed
+GUI_CLICK_TO_ADD: §aLeft click to add.
+GUI_RIGHTCLICK_TO_ADD: §aRight click to add.
+GUI_CLICK_TO_REMOVE: §cRight click to remove.
+GUI_PRESSQ_TO_TYPE: §ePress Q to type in chat.
+GUI_DEATHMESSAGE: DeathMessage
+GUI_DEATHMESSAGE_LORE: Message send to players when boss dies enabled §e
+GUI_SET_DISPLAYNAME: §aRight click to type in chat display name.
+GUI_UNSET_DISPLAYNAME: §aPress Q to remove DisplayName.
+GUI_MOBTYPE: §aMobType: §e%mobType%
+GUI_MOBTYPE_LORE: §aClick to modify the mob type of the boss.
+GUI_REMOVE: Remove
+GUI_REMOVE_DUNGEON_LORE: §cRemove the dungeon.
+GUI_REMOVE_MOB_LORE: §cRemove the dungeon mob.
+NO_PERMISSION: §cYou don't have permission to perform this action!
+CREATED_DUNGEON: §aSuccessfully created the dungeon §e%dungeon%
+EXIT_DUNGEON: §7You've exit the dungeon!
+YOU_DIED: §cYou died...
+DUNGEON_ALREADY_EXISTS: §cA dungeon with this name already exists!
+SCRIPT_ALREADY_EXISTS: §cA script with this name already exists!
+DUNGEON_DOESNT_EXISTS: §cA dungeon with this name doesn't exists!
+BOSS_DOESNT_EXISTS: §cA §eBossMania §cmob with this name doesn't exists!
+MYTHIC_DOESNT_EXISTS: §cA §eMythicMobs §cmob with this name doesn't exists!
+REMOVED_DUNGEON: §aSuccessfully removed the dungeon §e%dungeon%
+DUNGEONMOB_ALREADY_EXISTS: §cA dungeon mob with this name already exists!
+TYPE_DOESNT_EXISTS: §cThis type of mob doesn't exists!
+SIZE_TOO_BIG: §cThe size cannot be more than 22!
+INVALID_NUMBER: §cInvalid number!
+COMMAND_INVALID_ARGS: §cInvalid Arguments!
+COMMAND_NOTFOUND: §cCommand not found!
+COMMAND_HINT_HELP: §7Type in chat /bossmania help to see all commands.
