@@ -146,4 +146,4 @@ SIZE_TOO_BIG: §cThe size cannot be more than 22!
 INVALID_NUMBER: §cInvalid number!
 COMMAND_INVALID_ARGS: §cInvalid Arguments!
 COMMAND_NOTFOUND: §cCommand not found!
-COMMAND_HINT_HELP: §7Type in chat /bossmania help to see all commands.
+COMMAND_HINT_HELP: §7Type in chat /dungeonsmania help to see all commands.
